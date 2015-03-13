@@ -1,0 +1,9 @@
+\begin{declaration}
+$ModuleType$ : ODP
+$ModuleName$ : OptimalDistributionProblem
+$Dimension$ : d = {3, 4, 5, 2, 2}
+\end{declaration}
+
+\begin{equation}
+f(i,x)=\min_{a_{i}} \{ y_{i}(a_{i}) + f(i+1,x+c_{i}(a_{i}))\}.
+\end{equation}

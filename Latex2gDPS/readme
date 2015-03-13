@@ -1,0 +1,10 @@
+1. compile: make
+2. run: ./pn infile [-ah]
+   Here ModuleName is the string that we want to write to the 
+   "NAME" section of the output gDPS file.
+   If infile has suffix ".i", e.g. "ABC.i", the output file name replaces
+   ".i" with ".o": "ABC.o"
+   If infile suffix is not ".i", e.g., "ABC.txt", the output file name
+   is the infile name with appendix ".o": "ABC.txt.o"
+3. make a distribution: make dist
+

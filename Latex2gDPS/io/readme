@@ -1,0 +1,27 @@
+From dpfes1.tex
+
+There are 18 of these. Those finished are followed by (V).
+
+1. BST
+2. COV (SCA)
+3. DPP (FPP)
+4. EDP
+5. ILP
+6. WLV
+7. KS01
+8. LCS
+9. LSP
+10. MCM (V)
+11. OFP
+12. OST
+13. RAP
+14. RDP
+15. SCP
+16. SPA
+17. SPC
+18. TSP (V)
+
+The *.bck.i and *.bck.o files are directly copied from dpfes1.tex.
+The *.test.i and *.test.o files are for testing.
+The *.i and *.o files are current in experiment.
+
